@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1588257665 source:c:\users\hora de estudar\documents\alurta\foge-foge\foge_foge\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"foge_foge.h"
+	"mapa.h"
+
+1588281256 source:c:\users\hora de estudar\documents\alurta\foge-foge\foge_foge\mapa.c
+	<stdio.h>
+	<stdlib.h>
+	"mapa.h"
+	<string.h>
+
+1588281258 c:\users\hora de estudar\documents\alurta\foge-foge\foge_foge\mapa.h
+
+1588340796 c:\users\hora de estudar\documents\alurta\foge-foge\foge_foge\foge_foge.h
+
+1588262146 source:c:\users\hora de estudar\documents\alurta\foge-foge\foge_foge\foge_foge.c
+	<stdio.h>
+	<stdlib.h>
+	"foge_foge.h"
+	"mapa.h"
+
